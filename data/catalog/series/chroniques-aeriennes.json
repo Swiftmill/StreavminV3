@@ -1,0 +1,149 @@
+{
+  "id": "chroniques-aeriennes",
+  "slug": "chroniques-aeriennes",
+  "title": "Chroniques Aériennes",
+  "synopsis": "Des pilotes explorent des îles flottantes.",
+  "poster": "https://dummyimage.com/400x600/0f1e2f/ffffff&text=Chroniques+Aeriennes",
+  "banner": "https://dummyimage.com/1280x720/0f1e2f/ffffff&text=Chroniques+Aeriennes",
+  "tags": ["adventure"],
+  "genres": ["Adventure", "Fantasy"],
+  "published": true,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "ep": 1,
+          "title": "Chroniques Aériennes S1E1",
+          "synopsis": "La découverte d'un archipel céleste.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/0f1e2f/ffffff&text=Chroniques+Aeriennes",
+          "duration": 45,
+          "published": true
+        },
+        {
+          "ep": 2,
+          "title": "Chroniques Aériennes S1E2",
+          "synopsis": "Les courants aériens deviennent dangereux.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/0f1e2f/ffffff&text=Chroniques+Aeriennes",
+          "duration": 45,
+          "published": true
+        },
+        {
+          "ep": 3,
+          "title": "Chroniques Aériennes S1E3",
+          "synopsis": "Le secret des pilotes disparus.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/0f1e2f/ffffff&text=Chroniques+Aeriennes",
+          "duration": 45,
+          "published": true
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "ep": 1,
+          "title": "Chroniques Aériennes S2E1",
+          "synopsis": "Une alliance avec les nuées mystiques.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/0f1e2f/ffffff&text=Chroniques+Aeriennes",
+          "duration": 45,
+          "published": true
+        },
+        {
+          "ep": 2,
+          "title": "Chroniques Aériennes S2E2",
+          "synopsis": "Les cartes du ciel sont réécrites.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/0f1e2f/ffffff&text=Chroniques+Aeriennes",
+          "duration": 45,
+          "published": true
+        },
+        {
+          "ep": 3,
+          "title": "Chroniques Aériennes S2E3",
+          "synopsis": "Le cœur du vortex est atteint.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/0f1e2f/ffffff&text=Chroniques+Aeriennes",
+          "duration": 45,
+          "published": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "les-veilleurs-du-neon",
+  "slug": "les-veilleurs-du-neon",
+  "title": "Les Veilleurs du Néon",
+  "synopsis": "Une unité spéciale protège une métropole cyberpunk.",
+  "poster": "https://dummyimage.com/400x600/10122a/ffffff&text=Veilleurs+du+Neon",
+  "banner": "https://dummyimage.com/1280x720/10122a/ffffff&text=Veilleurs+du+Neon",
+  "tags": ["action", "trending"],
+  "genres": ["Action", "Sci-Fi"],
+  "published": true,
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "ep": 1,
+          "title": "Les Veilleurs du Néon S1E1",
+          "synopsis": "Les nouvelles recrues affrontent leur première mission.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/10122a/ffffff&text=Veilleurs+du+Neon",
+          "duration": 45,
+          "published": true
+        },
+        {
+          "ep": 2,
+          "title": "Les Veilleurs du Néon S1E2",
+          "synopsis": "Un piratage déstabilise la ville lumineuse.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/10122a/ffffff&text=Veilleurs+du+Neon",
+          "duration": 45,
+          "published": true
+        },
+        {
+          "ep": 3,
+          "title": "Les Veilleurs du Néon S1E3",
+          "synopsis": "Les ombres de la zone rouge se réveillent.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/10122a/ffffff&text=Veilleurs+du+Neon",
+          "duration": 45,
+          "published": true
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "ep": 1,
+          "title": "Les Veilleurs du Néon S2E1",
+          "synopsis": "Un nouvel ennemi infiltre les défenses numériques.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/10122a/ffffff&text=Veilleurs+du+Neon",
+          "duration": 45,
+          "published": true
+        },
+        {
+          "ep": 2,
+          "title": "Les Veilleurs du Néon S2E2",
+          "synopsis": "Les alliances sont mises à l'épreuve.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/10122a/ffffff&text=Veilleurs+du+Neon",
+          "duration": 45,
+          "published": true
+        },
+        {
+          "ep": 3,
+          "title": "Les Veilleurs du Néon S2E3",
+          "synopsis": "Le destin de Néonpolis se joue dans les airs.",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "fr",
+              "label": "Français",
+              "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+            },
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "poster": "https://dummyimage.com/400x600/10122a/ffffff&text=Veilleurs+du+Neon",
+          "duration": 45,
+          "published": true
+        }
+      ]
+    }
+  ]
+}

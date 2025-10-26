@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+.backups
+.DS_Store
+.env
+frontend/.next
+backups

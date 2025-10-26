@@ -1,0 +1,212 @@
+[
+  {
+    "id": "voyage-stellaris",
+    "slug": "voyage-stellaris",
+    "title": "Voyage Stellaris",
+    "synopsis": "Une mission interstellaire découvre un monde inattendu.",
+    "year": 2022,
+    "duration": 128,
+    "genres": ["Sci-Fi"],
+    "tags": ["trending", "space"],
+    "poster": "https://dummyimage.com/400x600/101020/ffffff&text=Voyage+Stellaris",
+    "banner": "https://dummyimage.com/1280x720/181028/ffffff&text=Voyage+Stellaris",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "subtitles": [
+      {
+        "lang": "fr",
+        "label": "Français",
+        "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+      }
+    ],
+    "featured": true,
+    "published": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "tokyo-night-riders",
+    "slug": "tokyo-night-riders",
+    "title": "Tokyo Night Riders",
+    "synopsis": "Des motards clandestins défient la ville et leurs destins.",
+    "year": 2021,
+    "duration": 104,
+    "genres": ["Action"],
+    "tags": ["action", "trending"],
+    "poster": "https://dummyimage.com/400x600/151521/ffffff&text=Tokyo+Night+Riders",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "subtitles": [
+      {
+        "lang": "fr",
+        "label": "Français",
+        "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+      }
+    ],
+    "published": true,
+    "createdAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "coeurs-de-glace",
+    "slug": "coeurs-de-glace",
+    "title": "Coeurs de Glace",
+    "synopsis": "Un thriller romantique sur fond de tempête polaire.",
+    "year": 2020,
+    "duration": 96,
+    "genres": ["Romance", "Thriller"],
+    "tags": ["romance"],
+    "poster": "https://dummyimage.com/400x600/1a1f2a/ffffff&text=Coeurs+de+Glace",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "subtitles": [
+      {
+        "lang": "fr",
+        "label": "Français",
+        "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+      }
+    ],
+    "published": true,
+    "createdAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "legende-de-valoria",
+    "slug": "legende-de-valoria",
+    "title": "Légende de Valoria",
+    "synopsis": "Un royaume en péril fait appel à une héroïne improbable.",
+    "year": 2019,
+    "duration": 132,
+    "genres": ["Fantasy"],
+    "tags": ["fantasy"],
+    "poster": "https://dummyimage.com/400x600/16121f/ffffff&text=Legende+de+Valoria",
+    "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+    "subtitles": [
+      {
+        "lang": "fr",
+        "label": "Français",
+        "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+      }
+    ],
+    "published": true,
+    "createdAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "chroniques-du-delta",
+    "slug": "chroniques-du-delta",
+    "title": "Chroniques du Delta",
+    "synopsis": "Un enquêteur cybernétique démantèle un syndicat numérique.",
+    "year": 2023,
+    "duration": 118,
+    "genres": ["Sci-Fi", "Thriller"],
+    "tags": ["new", "trending"],
+    "poster": "https://dummyimage.com/400x600/1d2030/ffffff&text=Chroniques+du+Delta",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "subtitles": [
+      {
+        "lang": "fr",
+        "label": "Français",
+        "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+      }
+    ],
+    "published": true,
+    "createdAt": "2024-01-05T00:00:00.000Z"
+  },
+  {
+    "id": "mirage-andalou",
+    "slug": "mirage-andalou",
+    "title": "Mirage Andalou",
+    "synopsis": "Une photographe traque un mythe dans le désert andalou.",
+    "year": 2018,
+    "duration": 110,
+    "genres": ["Adventure"],
+    "tags": ["drama"],
+    "poster": "https://dummyimage.com/400x600/202020/ffffff&text=Mirage+Andalou",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "subtitles": [
+      {
+        "lang": "fr",
+        "label": "Français",
+        "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+      }
+    ],
+    "published": true,
+    "createdAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "pulse-98",
+    "slug": "pulse-98",
+    "title": "Pulse 98",
+    "synopsis": "Une DJ découvre un complot lors d’une rave rétro-futuriste.",
+    "year": 2024,
+    "duration": 101,
+    "genres": ["Music", "Mystery"],
+    "tags": ["new"],
+    "poster": "https://dummyimage.com/400x600/141414/ffffff&text=Pulse+98",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "subtitles": [
+      {
+        "lang": "fr",
+        "label": "Français",
+        "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+      }
+    ],
+    "published": true,
+    "createdAt": "2024-01-07T00:00:00.000Z"
+  },
+  {
+    "id": "rivages-caches",
+    "slug": "rivages-caches",
+    "title": "Rivages Cachés",
+    "synopsis": "Un drame familial dans un village de pêcheurs isolé.",
+    "year": 2017,
+    "duration": 94,
+    "genres": ["Drama"],
+    "tags": ["classic"],
+    "poster": "https://dummyimage.com/400x600/1f1f1f/ffffff&text=Rivages+Caches",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "subtitles": [
+      {
+        "lang": "fr",
+        "label": "Français",
+        "url": "https://gist.githubusercontent.com/jfsiii/7d9588506f0a7d89f5cb/raw/cc.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+      }
+    ],
+    "published": true,
+    "createdAt": "2024-01-08T00:00:00.000Z"
+  }
+]

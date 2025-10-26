@@ -1,0 +1,30 @@
+:root {
+  color-scheme: dark;
+  --bg: #08080c;
+  --bg-alt: #11111a;
+  --text: #f5f5f5;
+  --muted: #b0b2c3;
+  --accent: #8a5cf6;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: radial-gradient(circle at top, #13132a 0%, #05050a 50%, #020205 100%);
+  color: var(--text);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  font-family: inherit;
+}
