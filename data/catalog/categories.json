@@ -1,0 +1,27 @@
+[
+  {
+    "id": "trending",
+    "title": "Tendances",
+    "type": "trending",
+    "order": 0
+  },
+  {
+    "id": "action",
+    "title": "Action & Aventure",
+    "type": "manual",
+    "items": [
+      "movie:tokyo-night-riders",
+      "series:les-veilleurs-du-neon"
+    ],
+    "order": 1
+  },
+  {
+    "id": "anime",
+    "title": "Animation & Anime",
+    "type": "manual",
+    "items": [
+      "movie:pulse-98"
+    ],
+    "order": 2
+  }
+]

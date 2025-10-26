@@ -1,0 +1,11 @@
+.grid {
+  display: grid;
+  gap: 1.5rem;
+  padding: 2rem 6vw;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+
+.loading {
+  padding: 4rem;
+  text-align: center;
+}
